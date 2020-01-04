@@ -1,3 +1,3 @@
 # repot
 
-Created just for project.
+Udacity Project for personal use. Created just to display.
